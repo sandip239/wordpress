@@ -1,0 +1,8 @@
+.hello-world-widget {
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+.hello-world-widget:hover {
+    color: red; /* Change the color on hover */
+}
